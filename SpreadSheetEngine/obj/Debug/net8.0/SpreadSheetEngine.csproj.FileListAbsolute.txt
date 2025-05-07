@@ -1,0 +1,11 @@
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\bin\Debug\net8.0\SpreadSheetEngine.deps.json
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\bin\Debug\net8.0\SpreadSheetEngine.dll
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\bin\Debug\net8.0\SpreadSheetEngine.pdb
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\SpreadSheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\SpreadSheetEngine.AssemblyInfoInputs.cache
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\SpreadSheetEngine.AssemblyInfo.cs
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\SpreadSheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\SpreadSheetEngine.dll
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\refint\SpreadSheetEngine.dll
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\SpreadSheetEngine.pdb
+C:\Users\Ehiso\OneDrive\Desktop\WSU CLASSES\Senior_1st_Semester\CPTS 321\Coding\homeWork\cpts321-ehiane_oigiagbe-hws\SpreadSheetEngine\obj\Debug\net8.0\ref\SpreadSheetEngine.dll
