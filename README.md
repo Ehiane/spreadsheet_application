@@ -41,13 +41,6 @@ Extensive unit testing using `NUnit` framework covering:
 - File save/load integrity
 
 ---
-
-## 📸 Screenshots
-
-*(Insert screenshots or GIFs of your UI here if available)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Language:** C#  
