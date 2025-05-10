@@ -1,8 +1,14 @@
 # Spreadsheet Engine – CPTS 321 Project
 
-This is a fully functional spreadsheet application built from scratch in C# using .NET WinForms. Developed as a semester project for Washington State University's **CPTS 321: Object-Oriented Software Principles**, the application emulates key spreadsheet behaviors such as cell editing, formula parsing, dependency tracking, and dynamic UI updates.
+This is a spreadsheet application built from scratch in C# using .NET WinForms. Developed as a semester project for Washington State University's **CPTS 321: Object-Oriented Software Principles**, the application emulates key spreadsheet behaviors such as cell editing, formula parsing, dependency tracking, and dynamic UI updates.
+---
+## Demo 📹
+https://github.com/user-attachments/assets/e2469001-03f1-4ea7-a447-b430640c0ea8
 
 ---
+
+
+
 
 ## 🚀 Features
 
